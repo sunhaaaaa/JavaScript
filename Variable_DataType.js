@@ -51,4 +51,3 @@ console.log(typeof true);
 console.log(typeof "XXX");
 console.log(typeof null);//object: 객체형 
 console.log(typeof undefined);
-//tip: 
